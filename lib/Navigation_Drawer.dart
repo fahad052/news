@@ -35,7 +35,7 @@ class _NavigationDrawerState extends State<NavigationDrawer> {
                 ),
               ),
               trailing: Icon(
-                Icons.chevron_right,
+                Icons.chevron_right_sharp,
                 color: Colors.grey.shade400,
               ),
               onTap: () {
